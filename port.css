@@ -1,33 +1,40 @@
+/*Styling for class logo*/
 .logo{
     padding-left: 20px;
     padding-top: 20px;
     float: left;
 }
+/*Styling for classes h and t*/
 .h,.t{
     text-align: right;
     padding-top: 100px;;
     padding-bottom: 2px;;
 }
+/*Styling for class container*/
 .container{
 background-color: #9999ff;
 }
+/*Styling for class wrapper*/
 .wrapper{
 display: grid;
 grid-template-columns: 30% 30% 30%;
 grid-template-rows: 5%;
 grid-column-gap: 5%;
 }
+/*Styling for classes p1,p2 and p3*/
 .p1,.p2,.p3{
 border-radius: 2%;
 border-style: solid;
 background-color: #b3b3ff;
 }
+/*Styling for class himg*/
 .himg{
 display: block;
 margin-left: auto;
 margin-right: auto;
 width: 50%;
 }
+/*Styling for class f*/
 .f{
 text-align: center;
 }
